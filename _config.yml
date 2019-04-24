@@ -84,9 +84,7 @@ theme: hexo-theme-matery
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: 
-    tencent: https://fy1128@git.dev.tencent.com/fy1128/te.0668.city.git,master  #改成你的项目地址
+  type:
 
 search:
   path: search.xml
