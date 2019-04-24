@@ -1,0 +1,4 @@
+# Redirect default Netlify subdomain to primary domain
+http://naughty-joliot-d51c6b.netlify.com/* https://te.0668.city/:splat 301!
+https://naughty-joliot-d51c6b.netlify.com/* https://te.0668.city/:splat 301!
+
