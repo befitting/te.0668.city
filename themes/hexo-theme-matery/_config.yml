@@ -155,7 +155,7 @@ clicklove:
 profile:
   avatar: /medias/avatar.jpg
   career: 农民
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  introduction: 坚持做一件没有意义的事，直到这件事变得有意义
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
