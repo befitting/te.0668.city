@@ -89,3 +89,6 @@ deploy:
 search:
   path: search.xml
   field: post
+
+baidusitemap:
+  path: baidusitemap.xml
